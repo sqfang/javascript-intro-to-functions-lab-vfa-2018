@@ -7,7 +7,7 @@ function whisper (string){
 }
 
 function logShout(string){
-  cont spy = 
+  cont spy = ;
 }
 
 function logWhisper(string){
