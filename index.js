@@ -8,7 +8,7 @@ function whisper (string){
 
 function logShout(string){
   cont spy = ;
-  console.log.
+  console.log.restore();
 }
 
 function logWhisper(string){
