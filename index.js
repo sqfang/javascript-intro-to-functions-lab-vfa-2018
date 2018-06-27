@@ -7,9 +7,7 @@ function whisper (string){
 }
 
 function logShout(string){
-  cont spy = ;
-  expect(spy).toHaveBeenCalledWith(string);
-  console.log.restore();
+
 }
 
 function logWhisper(string){
