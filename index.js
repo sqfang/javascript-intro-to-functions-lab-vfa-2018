@@ -8,6 +8,7 @@ function whisper (string){
 
 function logShout(string){
   cont spy = ;
+  console.log.
 }
 
 function logWhisper(string){
