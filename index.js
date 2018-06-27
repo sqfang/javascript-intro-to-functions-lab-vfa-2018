@@ -8,6 +8,7 @@ function whisper (string){
 
 function logShout(string){
   cont spy = ;
+  expect(spy).toHaveBeen
   console.log.restore();
 }
 
